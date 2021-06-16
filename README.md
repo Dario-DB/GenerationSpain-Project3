@@ -3,7 +3,7 @@
 Working group project (4): JavaGoesQuiz 
 
 It consists in  a quiz game written in JavaScript (jQuery), HTML  and CSS. It has been carried out taking another similar project as a reference: [2017, Melissa Wolowicz](https://github.com/m-wolowicz).
-  JavaScript (jQuery), 
+
   1. You can choose a player name.
   2. There are questions of two themes: green and general knowledge (even you can play a mix of them).
   3. You can choose the number of questions you want to answer (between one and ten).

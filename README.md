@@ -13,7 +13,7 @@ It consists in  a quiz game written in JavaScript (jQuery), HTML  and CSS. It ha
  
 In future updates it is intended to add new functionalities and solve errors:
 - Results stored and show a top best 5 games ranking  with name and the resume of the game.
-- Fix some HTML/CSS elements (font style, gift rutes).
+- Fix some HTML/CSS elements (font style, gift routes).
 - Change to a responsive designe.
 
 

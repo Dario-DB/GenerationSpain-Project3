@@ -11,6 +11,10 @@ It consists in  a quiz game written in HTML, JavaScript and CSS. It has been car
   5. Questions have an aleatory order. Each time you play, the order changes.
   6. When the quiz is finished, you get a resume of the game (total questions, correct answered, incorrect answered and  unanswered).
  
+In future updates it is intended to add new functionalities and solve errors:
+- Results stored and show a top best 5 games ranking  with name and the resume of the game.
+- Fix some HTML/CSS elements (font style, gift rutes).
+- Change to a responsive designe.
 
 
   
